@@ -25,4 +25,3 @@ alias:: Sira's Very Large Medical Database
 - # Miscellaneous
 	- ## [[Random Pages]]
 	- {{embed [[Version]]}}
--

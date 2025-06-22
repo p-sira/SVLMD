@@ -57,3 +57,7 @@ tags:: [[Disease]]
 		- Place the rubber band is at the base of the hemorrhoid bundle, or over the bleeding site
 		- Avoid placing the rubber band too close to the [[Dentate Line]] to mitigate pain
 	- ## [[Hemorrhoidectomy]]
+		- ### Complications
+			- Pain
+			- Bleeding
+			- Stricture

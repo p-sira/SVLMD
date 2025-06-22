@@ -1,8 +1,8 @@
-icon:: 💊
-alias::
+icon:: 
+icon::
+alias:: Chr 5
 parent::
 author::
 reviewer::
 review-date::
-
-- # [[Antibiotics]]
+tags::

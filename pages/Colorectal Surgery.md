@@ -1,10 +1,18 @@
-- icon::
-  alias::
-  parent::
-  author::
-  reviewer::
-  review-date::
-  tags::
+icon:: 
+icon::
+alias::
+parent::
+author:: [[Sira Pornsiriprasert]] 
+reviewer::
+review-date::
+tags::
+
+- # Operations
+	- [[Colectomy]]
+	- [[Anterior Resection]]
+	- [[Bowel Anastomosis]]
+	- [[Ileostomy]]
+	- [[Colostomy]]
 - # Diseases
 	- [[Acute Appendicitis]]
 	- [[Peptic Ulcer Disease]]
@@ -12,7 +20,7 @@
 	- [[Anal Fissure]]
 	- [[Hemorrhoid]]
 	- [[Gastrointestinal Bleeding]]
-	-
 - # Malignancies
-	- ## [[Colon Cancer]]
-	- ## [[Rectal Cancer]]
+	- [[Colorectal Cancer]]
+		- [[Colon Cancer]]
+		- [[Rectal Cancer]]

@@ -1,0 +1,2 @@
+# Diseases
+	- [[Necrotizing Fasciitis]]

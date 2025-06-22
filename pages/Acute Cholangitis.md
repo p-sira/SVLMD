@@ -21,6 +21,7 @@ tags:: [[Disease]]
 		- The three symptoms highlighted in green are called the **[[Charcot Triad]]**.
 		- All of the symptoms above combined are called the **[[Reynold Pentad]]**.
 - # Diagnosis #card
+  id:: 684514d7-819b-4eaf-ab4d-70e38a784458
 	- The **[[Tokyo Guidelines 2018]]** is used for [[Acute Cholangitis]] diagnosis [(Kiriyama, 2018)]([[References/kiriyamaTokyoGuidelines20182018]]) [(Miura, 2018)]([[References/miuraTokyoGuidelines20182018]]).
 	- Online calculator: https://www.mdcalc.com/calc/10142/tokyo-guidelines-acute-cholangitis-2018
 	- ## Criteria
@@ -37,6 +38,7 @@ tags:: [[Disease]]
 		- **Biliary Dilatation** > 1 cm
 		- **Evidence of Etiology:** Identify the cause of obstruction, such as bile duct stones, strictures, or tumors.
 - # Grading #card
+  id:: 68451e9e-46db-4e5c-a675-49485ffb5ae4
 	- Grading of [[Acute Cholangitis]] follows the **[[Tokyo Guidelines 2018]]** [(Kiriyama, 2018)]([[References/kiriyamaTokyoGuidelines20182018]]).
 	- ## Grade III: Severe
 		- Any one of the following:

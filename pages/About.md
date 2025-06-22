@@ -2,7 +2,7 @@ icon:: ℹ️
 exclude-from-graph-view:: true
 
 - # What's SVLMD
-	- **[[Sira's Very Large Medical Database]]** (SVLMD) is a **community-maintained**, expert-reviewed, **non-hierachical** medical education database. The information prioritizes demographics, geography, and socioeconomy in the context of **Thailand**.
+	- **[[Sira's Very Large Medical Database]]** (SVLMD) is a **non-hierachical medical** database. The information prioritizes demographics, geography, and socioeconomy in the context of **Thailand**.
 	- ![banner.png](../assets/logo-large.png)
 	- The logo depicts a glass filling up with water, drop by drop, signifying the development of this project, which is gradual and accummulative. This glass will never be full, reflecting the nature of academia.
 - # [[LICENSE]]

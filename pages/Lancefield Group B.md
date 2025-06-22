@@ -1,6 +1,6 @@
 icon:: 
 icon::
-alias:: Group D Streptococcus, GDS
+alias:: Group B Streptococcus, GBS
 parent::
 author::
 reviewer::

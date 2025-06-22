@@ -1,0 +1,2 @@
+icon:: 🦠
+alias:: MSSA
