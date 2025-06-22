@@ -38,6 +38,8 @@ tags:: [[Disease]], [[Cancer]]
 	- ## Histopathology
 		- **[[Liver Biopsy]]:** Reserved for cases where imaging is inconclusive or atypical.
 - # Management
+	- ![hcc-management.png](../assets/hcc-management_1750581732164_0.png)
+	- Diagram via [(Lau, 2024)]([[References/lauAPASLClinicalPractice2024]]).
 	- ## Curative Treatments (Early-Stage HCC) [(Brown, 2023)]([[References/brownManagementHepatocellularCarcinoma2023]]) #card
 		- **Surgical resection:** preferred for patients with good liver function and limited disease.
 		- **[[Liver Transplantation]]**

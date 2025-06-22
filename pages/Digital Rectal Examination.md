@@ -1,5 +1,5 @@
 icon:: 👆
-alias::
+alias:: DRE
 parent::
 author:: 
 reviewer::

@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Colorectal Surgery" "Hepatopancreatobiliary Surgery"]
+ :favorites ["Benign Prostatic Hyperplasia" "Colorectal Surgery" "Hepatopancreatobiliary Surgery"]
 
  ;; Set flashcards interval.
  ;; Expected value:

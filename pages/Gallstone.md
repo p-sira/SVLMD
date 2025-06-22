@@ -22,7 +22,7 @@ review-date::
 - # Risk Factors
 	- [[Gallstone]] formation is influenced by a combination of genetic, metabolic, and lifestyle factors [(Sun, 2022)]([[References/sunFactorsInfluencingGallstone2022]]).
 		- **Genetic predisposition** and family history
-		- **[[Obesity]], [[Diabetes]], and [[metabolic syndromes]]**: These conditions disturb cholesterol homeostasis, leading to cholesterol supersaturation in bile.
+		- **[[Obesity]], [[Diabetes]], and [[Metabolic Syndromes]]**: These conditions disturb cholesterol homeostasis, leading to cholesterol supersaturation in bile.
 		- **Age, gender, and body mass index**: Older age and female sex are significant risk factors.
 		- **Impaired gallbladder motility** and excessive cholesterol secretion by the liver.
 		- **Other factors**: [[Non-alcoholic Fatty Liver Disease]] and rapid weight loss can also increase risk.

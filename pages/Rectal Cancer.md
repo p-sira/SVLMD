@@ -32,7 +32,8 @@ tags:: [[Disease]]
 	- **[[Anemia]]**
 - # Management
 	- ## [[Colorectal Screening]]
-	- ## [[Anterior Resection]] by Tumor Location [(Brunicardi, 2018)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]])
+	- ## Resection by Tumor Location [(Brunicardi, 2018)]([[References/brunicardiSchwartzsPrinciplesSurgery2018]])
 		- **Upper or Middle [[Rectum]]:** [[Low Anterior Resection]]
 		- **Distal [[Rectum]]:** [[Extended Low Anterior Resection]]
+		- **Involving the [[Anal Canal]]:** [[Abdominoperineal Resection]] + [[Colostomy]]
 		- Usually lead to [[Low Anterior Resection Syndrome]]
