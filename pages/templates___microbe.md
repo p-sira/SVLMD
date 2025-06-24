@@ -12,3 +12,17 @@ exclude-from-graph-view:: true
 	  morphology::
 	  lab::
 	  oxygen-environment::
+	  tags::
+- Virus
+  template:: virus
+  template-including-parent:: false
+	- icon:: 🦠
+	  alias::
+	  parent::
+	  author::
+	  reviewer::
+	  review-date::
+	  genome:: 
+	  capsid:: 
+	  tags::
+-

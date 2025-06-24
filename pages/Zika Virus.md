@@ -1,5 +1,5 @@
 icon:: 🦠
-alias:: HCV
+alias:: ZIKV 
 parent:: [[Flaviviridae]]
 author::
 reviewer::

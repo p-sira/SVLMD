@@ -1,5 +1,116 @@
 icon:: 🦠
 alias::
 parent:: [[Microbiology]]
-author::
+author:: [[Sira Pornsiriprasert]] 
 reviewer::
+review-date::
+
+- Overview of medically-important viruses for medical students.
+- Main reference: [(Ryan, 2018)]([[References/ryanSherrisMedicalMicrobiology2018]])
+- # Diagram Summary
+	- ## DNA Viruses
+		- ![dna-virus.svg](../assets/dna-virus_1750771529810_0.svg){:height 411, :width 748}
+	- ## +ssRNA Viruses
+		- ![pos-ssRNA-virus.svg](../assets/pos-ssRNA-virus_1750771646580_0.svg)
+	- ## -ssRNA Viruses
+		- ![neg-ssRNA-virus.svg](../assets/neg-ssRNA-virus_1750771652756_0.svg)
+	- ## dsRNA Viruses
+		- ![dsRNA-virus.svg](../assets/dsRNA-virus_1750771661161_0.svg)
+- # [[DNA Virus]]
+	- ## Enveloped DNA Virus
+		- ### [[Poxviridae]]
+			- [[Variola Virus]]
+			- [[Vaccinia Virus]]
+			- [[Cowpox Virus]]
+			- [[Molluscum Contagiosum Virus]]
+			- [[Monkeypox Virus]]
+		- ### [[Hepadnaviridae]] ([[Partial DNA]])
+			- [[Hepatitis B Virus]]
+		- ### [[Herpesviridae]]
+			- #### [[Alphaherpesvirinae]]
+				- [[HSV-1]]
+				- [[HSV-2]]
+				- [[VZV]]
+			- #### [[Betaherpesvirinae]]
+				- [[CMV]]
+				- [[HHV-6]]
+				- [[HHV-7]]
+			- #### [[Gammaherpesvirinae]]
+				- [[EBV]]
+				- [[KSHV]]
+	- ## Naked DNA Virus
+		- ### [[Adenoviridae]]: [[Adenovirus]]
+		- ### [[Papillomaviridae]]
+			- High risk: [[HPV-16]], [[HPV-18]]
+			- Low risk: [[HPV-6]], [[HPV-11]]
+		- ### [[Polyomaviridae]]
+			- [[BK Virus]]
+			- [[JC Virus]]
+		- ### [[Parvoviridae]] ([[ssDNA]])
+			- [[Parvo B19 Virus]]
+- # [[RNA Virus]]
+	- ## [[+ssRNA]] Virus
+		- ### [[Enveloped Capsid]]
+			- #### [[Flaviviridae]]
+				- [[DENV]]
+				- [[ZIKV]]
+				- [[JEV]]
+				- [[HCV]]
+			- #### [[Togaviridae]]
+				- [[Rubella Virus]]
+				- [[CHKV]]
+			- #### [[Coronaviridae]]
+				- [[hCoV]]
+				- [[MERS-CoV]]
+				- [[SARS-CoV-1]]
+				- [[SARS-CoV-2]]
+			- #### [[Retroviridae]]
+				- #### [[Lentivirus]]
+					- [[HIV-1]]
+					- [[HIV-2]]
+				- #### [[Oncoretrovirus]]
+					- [[HTLV-1]]
+					- [[HTLV-2]]
+		- ### [[Naked Capsid]]
+			- #### [[Picornaviridae]]
+				- #### [[Enterovirus]]
+					- [[Poliovirus]]
+					- [[Coxsackie A Virus]]
+					- [[Coxsackie B Virus]]
+					- [[Echovirus]]
+				- #### [[Hepatovirus]]
+					- [[HAV]]
+				- #### [[Rhinovirus]]
+			- #### [[Caliciviridae]]
+				- [[Norovirus]]
+			- #### [[Hepeviridae]]
+				- [[HEV]]
+	- ## [[-ssRNA]] Virus ([[Enveloped Capsid]])
+		- ### [[Orthomyxoviridae]]
+			- #### [[Influenza Virus]]
+				- [[IAV]]
+				- [[IBV]]
+				- [[ICV]]
+		- ### [[Paramyxoviridae]]
+			- #### [[Morbillivirus]]
+				- [[Measles Virus]]
+			- #### [[Paramyxovirus]]
+				- [[Parainfluenza Virus]]
+				- [[Mumps Virus]]
+			- #### [[Pneumovirus]]
+				- [[RSV]]
+				- [[Metapneumovirus]]
+			- #### [[Henipavirus]]
+				- [[Nipah Virus]]
+		- ### [[Rhabdoviridae]]
+			- [[Lyssavirus]]
+		- ### [[Filoviridae]]
+			- [[Ebolavirus]]
+			- [[Marburgvirus]]
+		- ### [[Bunyaviridae]]
+			- [[CCHFV]]
+		- ### [[Deltaviridae]]
+			- [[HDV]]
+	- ## [[dsRNA]] Virus ([[Double Capsid]])
+		- ### [[Reoviridae]]
+			- [[Rotavirus]]

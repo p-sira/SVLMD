@@ -1,6 +1,6 @@
 icon:: 🦠
-alias:: HCV
-parent:: [[Flaviviridae]]
+alias:: CHKV
+parent:: [[Togaviridae]] 
 author::
 reviewer::
 review-date::

@@ -1,5 +1,4 @@
-icon:: 🦠
-alias:: HCV
+alias:: JEV 
 parent:: [[Flaviviridae]]
 author::
 reviewer::

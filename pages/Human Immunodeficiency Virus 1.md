@@ -1,9 +1,9 @@
 icon:: 🦠
-alias:: HCV
-parent:: [[Flaviviridae]]
+alias:: HIV-1
+parent:: [[Human Immunodeficiency Virus]] 
 author::
 reviewer::
 review-date::
-genome:: [[+ssRNA]] 
+genome:: [[+ssRNA]]
 capsid:: [[Enveloped Capsid]], [[Icosahedral Capsid]] 
 tags::

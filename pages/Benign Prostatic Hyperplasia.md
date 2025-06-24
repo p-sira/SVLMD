@@ -26,13 +26,12 @@ tags:: [[Disease]]
 	- [[Bladder Stone]]
 	- [[Renal Insufficiency]]
 - # Diagnosis [(Chughtai, 2016)]([[References/chughtaiBenignProstaticHyperplasia2016]])
-	- ## History
+	- ## [[International Prostate Symptom Score]] (IPSS)
 	- ## Physical Examination
 		- [[Suprapubic]]: Signs of [[Bladder Distension]]
 		- R/O penile causes of [[LUTS]]: [[Phimosis]], [[Meatal Stenosis]], other penile lesions
 		- Neurological examination of the lower limbs
 		- [[Digital Rectal Examination]] to estimate the prostate volume
-	- ## [[International Prostate Symptom Score]] (IPSS)
 	- ## Investigations
 		- [[Urinalysis]]
 		- [[BUN]], [[Cr]]

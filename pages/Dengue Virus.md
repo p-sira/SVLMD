@@ -1,5 +1,5 @@
 icon:: 🦠
-alias:: HCV
+alias:: DENV 
 parent:: [[Flaviviridae]]
 author::
 reviewer::

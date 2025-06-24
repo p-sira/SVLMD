@@ -1,6 +1,6 @@
 icon:: 🦠
-alias:: HCV
-parent:: [[Flaviviridae]]
+alias:: SARS-CoV-1
+parent:: [[Coronaviridae]] 
 author::
 reviewer::
 review-date::
