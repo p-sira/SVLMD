@@ -1,6 +1,6 @@
 icon:: 🦠
 alias:: HSV-2, Human Herpesvirus 2, HHV-2
-parent::
+parent:: [[Alphaherpesvirinae]] 
 author::
 reviewer::
 review-date::

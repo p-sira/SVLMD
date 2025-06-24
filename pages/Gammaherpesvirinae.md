@@ -1,6 +1,6 @@
 icon:: 🦠
-alias:: HHV-6
-parent:: [[Betaherpesvirinae]] 
+alias:: Gamma Herpesvirus
+parent:: [[Herpesviridae]] 
 author::
 reviewer::
 review-date::

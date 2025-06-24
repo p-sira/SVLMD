@@ -1,9 +1,9 @@
 icon:: 🦠
-alias::
+alias:: Alpha Herpesvirus
 parent:: [[Herpesviridae]] 
 author::
 reviewer::
 review-date::
-genome:: 
-capsid:: 
+genome:: [[dsDNA]]
+capsid:: [[Enveloped Capsid]], [[Icosahedral Capsid]] 
 tags::

@@ -1,6 +1,6 @@
 icon:: 🦠
 alias:: KSHV, Human Herpesvirus 8, HHV-8
-parent::
+parent:: [[Gammaherpesvirinae]] 
 author::
 reviewer::
 review-date::

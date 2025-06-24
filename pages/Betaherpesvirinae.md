@@ -1,9 +1,9 @@
 icon:: 🦠
-alias:: HHV-6
-parent:: [[Betaherpesvirinae]] 
+alias:: Beta Herpesvirus
+parent:: [[Herpesviridae]] 
 author::
 reviewer::
 review-date::
-genome:: [[dsDNA]]
+genome:: [[dsDNA]] 
 capsid:: [[Enveloped Capsid]], [[Icosahedral Capsid]] 
 tags::

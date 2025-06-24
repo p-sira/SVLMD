@@ -1,6 +1,6 @@
 icon:: 🦠
 alias:: VZV, Human Herpesvirus 3, HHV-3
-parent::
+parent:: [[Alphaherpesvirinae]] 
 author::
 reviewer::
 review-date::

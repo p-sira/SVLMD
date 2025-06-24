@@ -1,6 +1,6 @@
 icon:: 🦠
 alias:: EBV, Human Herpesvirus 4, HHV-4
-parent::
+parent:: [[Gammaherpesvirinae]] 
 author::
 reviewer::
 review-date::

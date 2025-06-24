@@ -1,6 +1,6 @@
 icon:: 🦠
 alias:: HHV-7
-parent::
+parent:: [[Betaherpesvirinae]] 
 author::
 reviewer::
 review-date::
