@@ -1,6 +1,6 @@
 icon:: 🦠
-alias:: RSV
-parent:: [[Pneumovirus]] 
+alias:: Bunyavirus
+parent::
 author::
 reviewer::
 review-date::
