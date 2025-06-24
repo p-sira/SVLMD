@@ -1,9 +1,8 @@
-icon:: 🦠
-alias:: CMV, Human Herpes Virus 5, HHV-5
-parent::
+alias:: JEV 
+parent:: [[Flaviviridae]]
 author::
 reviewer::
 review-date::
-genome:: [[dsDNA]]
+genome:: [[+ssRNA]] 
 capsid:: [[Enveloped Capsid]], [[Icosahedral Capsid]] 
 tags::

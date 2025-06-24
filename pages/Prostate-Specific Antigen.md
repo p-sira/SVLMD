@@ -12,5 +12,5 @@ tags::
 - **Increase >0.75 in a year:** Biopsy
 - [[False Positive]]
 	- [[Prostatitis]]
-	- Trauma
-	- Prostate manipulation: [[Foley Catheter]], [[DRE]], [[Ejaculation]], prostate biopsy
+	- [[Prostate Trauma]]
+	- Prostate manipulation: [[Foley Catheter]], [[DRE]], [[Ejaculation]], [[Prostate Biopsy]], [[Cystoscopy]]

@@ -1,9 +1,9 @@
 icon:: 🦠
-alias:: HHV-7
+alias:: Papillomavirus
 parent::
 author::
 reviewer::
 review-date::
 genome:: [[dsDNA]]
-capsid:: [[Enveloped Capsid]], [[Icosahedral Capsid]] 
+capsid:: [[Naked Capsid]], [[Icosahedral Capsid]] 
 tags::

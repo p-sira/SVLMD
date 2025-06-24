@@ -1,8 +1,9 @@
 icon:: 🦠
 alias:: HSV-1, Human Herpesvirus 1, HHV-1
-parent::
+parent:: [[Alphaherpesvirinae]] 
 author::
 reviewer::
 review-date::
-genome:: [[DNA]] 
+genome:: [[dsDNA]]
+capsid:: [[Enveloped Capsid]], [[Icosahedral Capsid]] 
 tags::

@@ -1,9 +1,9 @@
 icon:: 🦠
-alias:: CMV, Human Herpes Virus 5, HHV-5
+alias::
 parent::
 author::
 reviewer::
 review-date::
-genome:: [[dsDNA]]
+genome:: [[dsDNA]], [[Partial DNA]]
 capsid:: [[Enveloped Capsid]], [[Icosahedral Capsid]] 
 tags::

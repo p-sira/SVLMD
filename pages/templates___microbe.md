@@ -23,5 +23,6 @@ exclude-from-graph-view:: true
 	  reviewer::
 	  review-date::
 	  genome:: 
+	  capsid:: 
 	  tags::
 -

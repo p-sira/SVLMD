@@ -4,5 +4,6 @@ parent::
 author::
 reviewer::
 review-date::
-genome:: [[DNA]] 
+genome:: [[dsDNA]]
+capsid:: [[Enveloped Capsid]], [[Icosahedral Capsid]] 
 tags::
