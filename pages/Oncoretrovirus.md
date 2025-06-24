@@ -1,6 +1,6 @@
 icon:: 🦠
-alias:: HIV-2
-parent:: [[Human Immunodeficiency Virus]] 
+alias:: 
+parent:: [[Retroviridae]] 
 author::
 reviewer::
 review-date::
