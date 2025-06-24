@@ -7,6 +7,15 @@ review-date::
 
 - Overview of medically-important viruses for medical students.
 - Main reference: [(Ryan, 2018)]([[References/ryanSherrisMedicalMicrobiology2018]])
+- # Diagram Summary
+	- ## DNA Viruses
+		- ![dna-virus.svg](../assets/dna-virus_1750771529810_0.svg){:height 411, :width 748}
+	- ## +ssRNA Viruses
+		- ![pos-ssRNA-virus.svg](../assets/pos-ssRNA-virus_1750771646580_0.svg)
+	- ## -ssRNA Viruses
+		- ![neg-ssRNA-virus.svg](../assets/neg-ssRNA-virus_1750771652756_0.svg)
+	- ## dsRNA Viruses
+		- ![dsRNA-virus.svg](../assets/dsRNA-virus_1750771661161_0.svg)
 - # [[DNA Virus]]
 	- ## Enveloped DNA Virus
 		- ### [[Poxviridae]]
