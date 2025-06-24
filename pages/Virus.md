@@ -8,6 +8,7 @@ review-date::
 - Overview of medically-important viruses for medical students.
 - Main reference: [(Ryan, 2018)]([[References/ryanSherrisMedicalMicrobiology2018]])
 - # Diagram Summary
+  collapsed:: true
 	- ## DNA Viruses
 		- ![dna-virus.svg](../assets/dna-virus_1750771529810_0.svg){:height 411, :width 748}
 	- ## +ssRNA Viruses
