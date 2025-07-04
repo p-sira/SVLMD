@@ -9,17 +9,17 @@ review-date::
   oxygen-environment:: [[Clinically Aerobic Bacteria]]
 - **Streptococcus** is a genus of [[Gram-positive cocci]].
 - # Classification by [[Agar Hemolysis Test]]
-	- # [[Alpha Hemolysis]]
+	- ## [[Alpha Hemolysis]]
 		- *[[Streptococcus pneumoniae]]*
 		- [[Viridans Streptococcus]]
 			- *[[Streptococcus mutans]]*
 			- *[[Streptococcus mitis]]*
 			- *[[Streptococcus sanguinis]]*
 			- *[[Streptococcus angionosus]]*
-	- # [[Beta Hemolysis]]
+	- ## [[Beta Hemolysis]]
 		- *[[Streptococcus pyogenes]]*
 		- *[[Streptococcus agalactiae]]*
-	- # [[Gamma Hemolysis]]
+	- ## [[Gamma Hemolysis]]
 		- *[[Streptococcus bovis]]*
 		- *[[Streptococcus gallolyticus]]*
 		- See also: [[Enterococcus]]

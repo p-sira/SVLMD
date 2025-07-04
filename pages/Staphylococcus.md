@@ -4,7 +4,7 @@ reviewer::
 review-date::
 
 - gram-stain:: [[Gram-positive]]
-  morphology:: [[Coccus-in-cluster]] 
+  morphology:: [[Cocci-in-cluster]] 
   lab:: [[Catalase-positive]]
   oxygen-environment:: [[Clinically Aerobic Bacteria]]
 - **Staphylococcus** is a genus of [[Gram-positive cocci]].
