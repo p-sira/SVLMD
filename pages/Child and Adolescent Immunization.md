@@ -7,7 +7,7 @@ reviewer::
 review-date::
 tags::
 
-- Main reference: PIDST 2568
+- Based on PIDST 2568
 - # Vaccination Summary
 	- | **Vaccine**                         | **Schedule**                        | **Route**            | **Notes**                                     |
 	  |---------------------------------|---------------------------------|------------------|-------------------------------------------|
@@ -23,6 +23,7 @@ tags::
 	  | [[Td]]                              | Every 10 years from 11-12 yr. | IM    | Booster for [[Tetanus]] and [[Diphtheria]].       |
 	  | [[HPV]]                             | 11-12 yr. (เด็ก ป.5)                     | IM    | 2 doses, 6-12 months apart.               |
 - # Vaccination by Visit
+  id:: 686a45cb-4e00-461d-afbc-ec70a6456e90
 	- **At birth:** [[BCG]], [[HB]]1
 	- **1 month:** ([[HB]]2)
 	- **2 months:** [[DTwP]]-[[HB]]-[[Hib]]-1, [[IPV]]1, [[Rota]]1
@@ -34,4 +35,3 @@ tags::
 	- **4-6 years:** [[DTwP]] booster-2, [[OPV]] booster-2
 	- **11-12 years:** [[Td]], [[HPV]] (2 shots, 6-12 months apart)
 	- **Annually (after 6 mo.):** [[Flu]], ([[COVID-19]])
--
