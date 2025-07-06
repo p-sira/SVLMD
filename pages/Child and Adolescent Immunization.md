@@ -12,26 +12,26 @@ tags::
 	- | **Vaccine**                         | **Schedule**                        | **Route**            | **Notes**                                     |
 	  |---------------------------------|---------------------------------|------------------|-------------------------------------------|
 	  | [[BCG]]                             | At birth                        | ID      | Local ulceration may occur.               |
-	  | [[HBV]] (HB1, HB2, HB3)             | 0, 1, 2, 4, 6 months               | IM    | Part of Pentavalent (at 2, 4, 6 months) after birth dose.     |
-	  | [[Pentavalent]] (DTwP-HB-Hib)       | 2, 4, 6 months                  | IM    | Combines DTPw, HBV, Hib.                  |
-	  | [[IPV]] (Inactivated Polio)         | 2, 4, 6 months                  | IM    | Booster with OPV later.                   |
-	  | [[OPV]] (Oral Polio)                | 6 months, 18 months, 4-6 years  | Oral             | Booster doses.                            |
-	  | [[Rotavirus]] (Rota)                | 2, 4, 6 months                  | Oral             | Risk of intussusception.                  |
-	  | [[MMR]]                             | 9-12 months, 2½ years           | SC     | Fever, rash may occur post-vaccine.       |
-	  | [[JE]] (Japanese Encephalitis)      | 12-18 months, 2½ years          | SC     | Fever, rash possible.                     |
-	  | [[Influenza]] (Flu)                 | Annually from 6 months          | IM    | Recommended yearly.                       |
-	  | [[Td]]                              | Every 10 years from 11-12 years | IM    | Booster for tetanus and diphtheria.       |
-	  | [[HPV]]                             | 11-12 years                     | IM    | 2 doses, 6-12 months apart.               |
+	  | [[HBV]] (HB1, HB2, HB3)             | 0, (1), 2, 4, 6 months               | IM    | Part of Pentavalent (at 2, 4, 6 months) after birth dose.     |
+	  | [[Pentavalent]] ([[DTwP]]-[[HB]]-[[Hib]])       | 2, 4, 6 months                  | IM    | Combines DTwP, HBV, Hib.                  |
+	  | [[IPV]] (Inactivated Polio)         | 2, 4 months                  | IM    | Booster with OPV later.                   |
+	  | [[OPV]] (Oral Polio)                | 6 months, 18 months, 4-6 years  | Oral             | Booster after first dose.                            |
+	  | [[Rota]]                | 2, 4, 6 months                  | Oral             | Risk of [[Intussusception]].                  |
+	  | [[MMR]]                             | 9-12 months, 2½ years           | SC     | [[Fever]], rash may occur post-vaccine.       |
+	  | [[JE]]      | 12-18 months, 2½ years          | SC     | [[Fever]], rash possible.                     |
+	  | [[Influenza]]                 | Annually from 6 months          | IM    | Recommended yearly.                       |
+	  | [[Td]]                              | Every 10 years from 11-12 years | IM    | Booster for [[Tetanus]] and [[Diphtheria]].       |
+	  | [[HPV]]                             | 11-12 years (เด็ก ป.5)                     | IM    | 2 doses, 6-12 months apart.               |
 - # Vaccination by Visit
-	- **At birth:** BCG, HB1
-	- **1 month:** HB2
-	- **2 months:** Penta1, IPV1, Rota1
-	- **4 months:** Penta2, IPV2, Rota2
-	- **6 months:** Penta3, IPV3, Rota3, OPV1
-	- **9-12 months:** MMR1, JE1
-	- **12-18 months:** JE2, Flu
-	- **18 months:** DTPw booster, OPV2
-	- **2-2½ years:** MMR2, JE booster (if inactivated JE used)
-	- **4-6 years:** DTPw booster, OPV3
-	- **11-12 years:** Td, HPV1, HPV2 (6-12 months apart)
-	- **Annually:** Flu
+	- **At birth:** [[BCG]], [[HB]]1
+	- **1 month:** ([[HB]]2)
+	- **2 months:** [[DTwP]]-[[HB]]-[[Hib]]-1, [[IPV]]1, [[Rota]]1
+	- **4 months:** [[DTwP]]-[[HB]]-[[Hib]]-2, [[IPV]]2, [[Rota]]2
+	- **6 months:** [[DTwP]]-[[HB]]-[[Hib]]-3, [[OPV]]3, ([[Rota]]3)
+	- **9-12 months:** [[MMR]]1, [[JE]]1
+	- **18 months:** [[DTwP]] booster, [[OPV]] booster-1, [[MMR]]2
+	- **2-2½ years:** [[JE]]2
+	- **4-6 years:** [[DTwP]] booster-2, [[OPV]] booster-2
+	- **11-12 years:** [[Td]], [[HPV]] (2 shots, 6-12 months apart)
+	- **Annually (after 6 mo.):** [[Flu]], ([[COVID-19]])
+-
