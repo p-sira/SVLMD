@@ -1,0 +1,185 @@
+icon:: 
+icon::
+alias::
+parent::
+author:: [[Sira Pornsiriprasert]] 
+reviewer::
+review-date::
+tags::
+
+- # [[Gross Motor]]
+	- At birth
+		- Equal movement all limbs
+		- [[Moro Reflex]], [[Suckling Reflex]], [[Rooting Reflex]]
+	- 1 month
+		- Lying face down, head turned to one side
+	- 2 month
+		- Head up 45°
+	- 4 month
+		- Chest up, Head up 90°
+		- Red flag: Unstable neck
+	- 6 month
+		- Roll over (Loss of [[Asymmetric Tonic Neck Reflex]])
+		- Equal weight distribution when held to stand
+	- 9 month
+		- Pull to sit
+		- Stand with support
+		- Red flag: Cannot sit without support
+	- 12 month
+		- Stand alone
+		- First step
+	- 15 month
+		- Walk alone
+	- 18 month
+		- Run with stiff legs
+		- Pick item from the floor without falling
+		- Red flag: cannot walk alone
+	- 2 year
+		- Climb stairs step-by-step
+		- Jump with two legs
+		- Kick ball
+	- 3 year
+		- Climb stairs alternating leg
+		- Jump forward
+	- 4 year
+		- Jump on single leg
+		- Walk down stairs alternating leg
+	- 5 year
+		- Jump and switch legs
+		- Tandem gait
+	- 6 year
+		- Jump forward on single leg
+- # [[Fine Motor]]
+	- At birth
+		- Focus within 8 inches
+		- [[Palmar Grasp Reflex]]
+	- 1 month
+		- Gaze follows object within midline
+	- 2 month
+		- Gaze follows object past midline
+	- 4 month
+		- Gaze follows object 180°
+		- Hands together
+		- Open hands
+	- 6 month
+		- Switch hands
+		- Pick item with palm
+	- 9 month
+		- Pick item with the bases of the index and thumb
+	- 12 month
+		- Pick item with fingertips of the index and thumb
+	- 15 month
+		- Scribble
+		- Stack 2 blocks
+	- 18 month
+		- Stack 4 blocks
+	- 2 year
+		- Draw parallel and curved lines
+		- Stack 6 blocks
+	- 3 year
+		- Draw circles
+		- Bridge of 3 blocks
+	- 4 year
+		- Draw cross then squares
+	- 5 year
+		- Draw triangles
+		- Build 3-step staircase
+	- 6 year
+		- Draw hexagons
+- # Language
+	- At birth
+		- Vocalize
+		- Respond to sounds
+	- 1 month
+		- Ooo, aah
+	- 2 month
+		- Laugh
+	- 4 month
+		- Squeal
+		- Turn to sound
+	- 6 month
+		- Imitate speech, mama/dada non-specific
+		- Babble
+		- Turn to voice
+	- 9 month
+		- Mama/dada specific
+		- Red flag: doesn't turn to own name
+	- 12 month
+		- First word
+		- Follow commands with demonstration
+	- 15 months
+		- 3-6 words
+	- 18 month
+		- 18 words
+		- One body part
+		- Red flag: cannot say specific single word
+	- 2 year
+		- 2-word phrases
+		- 6 body parts
+		- Say own name
+		- Say common items
+	- 3 year
+		- 3-word phrases
+		- Speech 50% understandable
+		- Name one color
+	- 4 year
+		- 4+-word sentences
+		- Speech 100% understandable
+		- Ask questions
+		- Name 4 colors
+	- 5 year
+		- Count to 5
+		- Know 5 letters (ก,ง,ด,น,ย)
+		- Ask about meanings of words
+	- 6 year
+		- Count to 30
+		- Understand left-right
+		- Can explain differences between 2 objects
+		- Understand shapes, weight, distance
+- # Personal-Social
+	- At birth
+		- Regard face
+	- 1 month
+		- Smile responsively
+	- 2 month
+		- Regard own hands
+		- Attention to speech
+	- 4 month
+		- Responsive cooing
+	- 6 month
+		- Separation anxiety then stranger anxiety
+		- Developing [[Object Permanence]]
+		- Work for toy and food
+	- 9 month
+		- Peek-a-boo (Developed [[Object Permanence]])
+		- Self feed
+		- Pick fallen objects
+	- 12 month
+		- Follow commands: bye bye, clap, ธุจ้า
+		- Explore
+		- Indicate wants
+	- 15 month
+		- Messy eating with spoon
+		- Drink from cups
+		- Imitate housework
+	- 18 month
+		- Hold cups without spilling
+		- Remove garments
+		- Feed dolls
+	- 2 year
+		- Brush teeth with help
+		- Signal needs for toilet
+	- 3 year
+		- Understand sex
+		- Control urge to poo
+	- 4 year
+		- Button up
+		- Brush teeth without help
+		- Control urge to pee
+	- 5 year
+		- Play with rules
+		- Imaginary play
+		- No [[Enuresis]]
+	- 6 year
+		- Help with chores
+		- Tie shoes
