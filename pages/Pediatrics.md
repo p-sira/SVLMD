@@ -34,6 +34,7 @@ reviewer::
 		- [[Anemia]] screening ([[CBC]]) in 6-12 months old, 3-6 years old, and 11-18 years old.
 	- ## 5. Development
 		- [[Gross Motor]], [[Fine Motor]], Language, Social Skill
+		- [[Child Development]]
 	- ## 6. Vaccination
 		- {{embed ((686a45cb-4e00-461d-afbc-ec70a6456e90))}}
 	- ## 7. Anticipatory Guidance
